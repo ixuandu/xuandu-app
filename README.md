@@ -9,7 +9,7 @@
 
 | 版本 | 大小 | 发布日期 | 系统要求 |
 |---|---|---|---|
-| **v1.2.11** | 45.8 MB | 2026-10-25 | Android 7.0（API 24）及以上 |
+| **v1.2.11** | 43.77 MB | 2026-10-25 | Android 7.0（API 24）及以上 |
 
 - **最新版（固定链接，永远指向最新）**
   <https://github.com/ixuandu/xuandu-app/releases/latest/download/xuandu-android-latest.apk>
@@ -21,7 +21,7 @@
 **校验值（v1.2.11）**
 
 ```
-SHA-256: addb1ddb4d001ca01e63a792ef74b95d0fe89040bb66234ed8e7908b200e7670
+SHA-256: 49e1729b12191c453262314a94caceee3e47e7ef31f57aa8a6ef8e35187b2ab7
 ```
 
 > 下载后建议核对一次，确认文件没被篡改或下断。
