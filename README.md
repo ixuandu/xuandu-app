@@ -9,19 +9,19 @@
 
 | 版本 | 大小 | 发布日期 | 系统要求 |
 |---|---|---|---|
-| **v1.2.11** | 43.77 MB | 2026-10-25 | Android 7.0（API 24）及以上 |
+| **v1.2.12** | 45.16 MB | 2026-11-19 | Android 7.0（API 24）及以上 |
 
 - **最新版（固定链接，永远指向最新）**
   <https://github.com/ixuandu/xuandu-app/releases/latest/download/xuandu-android-latest.apk>
 - **指定版本**
-  <https://github.com/ixuandu/xuandu-app/releases/download/v1.2.11/xuandu-android-1.2.11.apk>
-- **Gitee 镜像**（国内更快，具体下载地址以 Gitee 发布页实际链接为准）
-  <https://gitee.com/ixuandu/xuandu-app>
+  <https://github.com/ixuandu/xuandu-app/releases/download/v1.2.12/xuandu-android-1.2.12.apk>
+- **Gitee 镜像（国内推荐）**
+  <https://gitee.com/ixuandu/xuandu-app/releases/download/v1.2.12/xuandu-android-1.2.12.apk>
 
-**校验值（v1.2.11）**
+**校验值（v1.2.12）**
 
 ```
-SHA-256: 49e1729b12191c453262314a94caceee3e47e7ef31f57aa8a6ef8e35187b2ab7
+SHA-256: b75b624e6c4dd1c318d6b5d4184d432344f249cecb210b940e9238223e43f15f
 ```
 
 > 下载后建议核对一次，确认文件没被篡改或下断。
@@ -55,6 +55,8 @@ SHA-256: 49e1729b12191c453262314a94caceee3e47e7ef31f57aa8a6ef8e35187b2ab7
 
 ## 版本记录
 
+### v1.2.12 · 2026-11-19
+
 ### v1.2.11 · 2026-10-25
 
 - 择日：新增「截路空亡」判定
@@ -70,5 +72,18 @@ SHA-256: 49e1729b12191c453262314a94caceee3e47e7ef31f57aa8a6ef8e35187b2ab7
 
 本应用依据传统术数文献整理，属传统文化展示，**不具备任何科学预测能力**，
 不构成医疗、投资、法律、婚嫁、丧葬等任何决策建议，请勿据此做出实际决定。
+
+---
+
+## 版权与使用许可
+
+本仓库**只分发安装包，不含源代码**。
+
+- **APK 著作权归作者所有，保留所有权利（All Rights Reserved）。**
+- 允许：下载、安装并在自有设备上正常使用本应用。
+- 不允许：反编译、二次打包、修改后分发，或以本应用及其衍生包从事商业销售、捆绑推广。
+- 本仓库的文档（README 等）可自由引用，请注明来源。
+
+> 因本仓库不含源码，**不适用任何开源许可证**（OSI License）。
 
 
